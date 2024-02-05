@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="practice" Database="" Version="10000">
+  <Project Name="practice" Path="practice/practice.project" Active="No"/>
+  <Project Name="whereami" Path="whereami/whereami.project" Active="No"/>
+  <Project Name="buckets" Path="buckets/buckets.project" Active="No"/>
+  <Project Name="mixmilk" Path="mixmilk/mixmilk.project" Active="No"/>
+  <Project Name="shell" Path="shell/shell.project" Active="No"/>
+  <Project Name="tttt" Path="multimoo/multimoo.project" Active="No"/>
+  <Project Name="milkorder" Path="milkorder/milkorder.project" Active="No"/>
+  <Project Name="teleport" Path="teleport/teleport.project" Active="No"/>
+  <Project Name="billboard" Path="billboard/billboard.project" Active="No"/>
+  <Project Name="lifeguards" Path="lifeguards/lifeguards.project" Active="No"/>
+  <Project Name="shuffle" Path="shuffle/shuffle.project" Active="No"/>
+  <Project Name="lostcow" Path="lostcow/lostcow.project" Active="No"/>
+  <Project Name="diamond" Path="diamond/diamond.project" Active="No"/>
+  <Project Name="practice" Path="practice/practice.project" Active="No"/>
+  <Project Name="censor" Path="paint/paint.project" Active="No"/>
+  <Project Name="COW" Path="COW/COW.project" Active="No"/>
+  <Project Name="hopscotch" Path="hopscotch/hopscotch.project" Active="No"/>
+  <Project Name="hoofball" Path="hoofball/hoofball.project" Active="No"/>
+  <Project Name="even" Path="even/even.project" Active="No"/>
+  <Project Name="moomoo" Path="moomoo/moomoo.project" Active="No"/>
+  <Project Name="learning" Path="learning/learning.project" Active="No"/>
+  <Project Name="practice" Path="practice/practice.project" Active="No"/>
+  <Project Name="cowroute" Path="cowroute/cowroute.project" Active="Yes"/>
+  <Project Name="base" Path="base/base.project" Active="No"/>
+  <Project Name="complete" Path="complete/complete.project" Active="No"/>
+  <Project Name="scode" Path="scode/scode.project" Active="No"/>
+  <Project Name="baseball" Path="baseball/baseball.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="whereami" ConfigName="Debug"/>
+      <Project Name="buckets" ConfigName="Debug"/>
+      <Project Name="mixmilk" ConfigName="Debug"/>
+      <Project Name="shell" ConfigName="Debug"/>
+      <Project Name="tttt" ConfigName="Debug"/>
+      <Project Name="milkorder" ConfigName="Debug"/>
+      <Project Name="teleport" ConfigName="Debug"/>
+      <Project Name="billboard" ConfigName="Debug"/>
+      <Project Name="lifeguards" ConfigName="Debug"/>
+      <Project Name="shuffle" ConfigName="Debug"/>
+      <Project Name="lostcow" ConfigName="Debug"/>
+      <Project Name="diamond" ConfigName="Debug"/>
+      <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="censor" ConfigName="Debug"/>
+      <Project Name="COW" ConfigName="Debug"/>
+      <Project Name="hopscotch" ConfigName="Debug"/>
+      <Project Name="hoofball" ConfigName="Debug"/>
+      <Project Name="even" ConfigName="Debug"/>
+      <Project Name="moomoo" ConfigName="Debug"/>
+      <Project Name="learning" ConfigName="Debug"/>
+      <Project Name="practice" ConfigName="Debug"/>
+      <Project Name="cowroute" ConfigName="Debug"/>
+      <Project Name="base" ConfigName="Debug"/>
+      <Project Name="complete" ConfigName="Debug"/>
+      <Project Name="scode" ConfigName="Debug"/>
+      <Project Name="baseball" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="practice" ConfigName="Release"/>
+      <Project Name="whereami" ConfigName="Release"/>
+      <Project Name="buckets" ConfigName="Release"/>
+      <Project Name="mixmilk" ConfigName="Release"/>
+      <Project Name="shell" ConfigName="Release"/>
+      <Project Name="tttt" ConfigName="Release"/>
+      <Project Name="milkorder" ConfigName="Release"/>
+      <Project Name="teleport" ConfigName="Release"/>
+      <Project Name="billboard" ConfigName="Release"/>
+      <Project Name="lifeguards" ConfigName="Release"/>
+      <Project Name="shuffle" ConfigName="Release"/>
+      <Project Name="lostcow" ConfigName="Release"/>
+      <Project Name="diamond" ConfigName="Release"/>
+      <Project Name="practice" ConfigName="Release"/>
+      <Project Name="censor" ConfigName="Release"/>
+      <Project Name="COW" ConfigName="Release"/>
+      <Project Name="hopscotch" ConfigName="Release"/>
+      <Project Name="hoofball" ConfigName="Release"/>
+      <Project Name="even" ConfigName="Release"/>
+      <Project Name="moomoo" ConfigName="Release"/>
+      <Project Name="learning" ConfigName="Release"/>
+      <Project Name="practice" ConfigName="Release"/>
+      <Project Name="cowroute" ConfigName="Release"/>
+      <Project Name="base" ConfigName="Release"/>
+      <Project Name="complete" ConfigName="Release"/>
+      <Project Name="scode" ConfigName="Release"/>
+      <Project Name="baseball" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

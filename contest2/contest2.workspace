@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="contest2" Database="" Version="10000">
+  <Project Name="alphabet" Path="alphabet/alphabet.project" Active="No"/>
+  <Project Name="photograph" Path="photograph/photograph.project" Active="No"/>
+  <Project Name="stalls" Path="stalls/stalls.project" Active="No"/>
+  <Project Name="stalls2" Path="stalls2/stalls2.project" Active="Yes"/>
+  <Project Name="dance" Path="dance/dance.project"/>
+  <Project Name="paint" Path="paint/paint.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="alphabet" ConfigName="Debug"/>
+      <Project Name="photograph" ConfigName="Debug"/>
+      <Project Name="stalls" ConfigName="Debug"/>
+      <Project Name="stalls2" ConfigName="Debug"/>
+      <Project Name="dance" ConfigName="Debug"/>
+      <Project Name="paint" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="alphabet" ConfigName="Release"/>
+      <Project Name="photograph" ConfigName="Release"/>
+      <Project Name="stalls" ConfigName="Release"/>
+      <Project Name="stalls2" ConfigName="Release"/>
+      <Project Name="dance" ConfigName="Release"/>
+      <Project Name="paint" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

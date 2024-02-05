@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Training" Database="" Version="10000">
+  <Project Name="Test" Path="Test/Test.project" Active="No"/>
+  <Project Name="ride" Path="Training/Training.project" Active="No"/>
+  <Project Name="Milk3" Path="Milk3/Milk3.project" Active="Yes"/>
+  <Project Name="Numtri" Path="Numtri/Numtri.project" Active="No"/>
+  <Project Name="pprime" Path="pprime/pprime.project" Active="No"/>
+  <Project Name="pails" Path="pails/pails.project" Active="No"/>
+  <Project Name="superprime" Path="Training/Training.project" Active="No"/>
+  <Project Name="superprime" Path="Training/Training.project" Active="No"/>
+  <Project Name="sprime" Path="sprime/sprime.project" Active="No"/>
+  <Project Name="castle2" Path="castle2/castle2.project" Active="No"/>
+  <Project Name="frac1" Path="frac1/frac1.project" Active="No"/>
+  <Project Name="sort3" Path="sort3/sort3.project" Active="No"/>
+  <Project Name="holstein" Path="holstein/holstein.project" Active="No"/>
+  <Project Name="hamming" Path="hamming/hamming.project" Active="No"/>
+  <Project Name="preface" Path="preface/preface.project" Active="No"/>
+  <Project Name="subset" Path="subset/subset.project" Active="No"/>
+  <Project Name="runaround" Path="runaround/runaround.project" Active="No"/>
+  <Project Name="braeeds" Path="braeeds/braeeds.project" Active="No"/>
+  <Project Name="ariprog" Path="airprog/airprog.project" Active="No"/>
+  <Project Name="maps" Path="maps/maps.project" Active="No"/>
+  <Project Name="longest" Path="longest/longest.project" Active="No"/>
+  <Project Name="nocows" Path="nocows/nocows.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="Test" ConfigName="Debug"/>
+      <Project Name="ride" ConfigName="Debug"/>
+      <Project Name="ariprog" ConfigName="Debug"/>
+      <Project Name="Milk3" ConfigName="Debug"/>
+      <Project Name="Numtri" ConfigName="Debug"/>
+      <Project Name="pprime" ConfigName="Debug"/>
+      <Project Name="pails" ConfigName="Debug"/>
+      <Project Name="superprime" ConfigName="Debug"/>
+      <Project Name="superprime" ConfigName="Debug"/>
+      <Project Name="sprime" ConfigName="Debug"/>
+      <Project Name="castle2" ConfigName="Debug"/>
+      <Project Name="frac1" ConfigName="Debug"/>
+      <Project Name="sort3" ConfigName="Debug"/>
+      <Project Name="holstein" ConfigName="Debug"/>
+      <Project Name="hamming" ConfigName="Debug"/>
+      <Project Name="preface" ConfigName="Debug"/>
+      <Project Name="subset" ConfigName="Debug"/>
+      <Project Name="runaround" ConfigName="Debug"/>
+      <Project Name="braeeds" ConfigName="Debug"/>
+      <Project Name="maps" ConfigName="Debug"/>
+      <Project Name="longest" ConfigName="Debug"/>
+      <Project Name="nocows" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="Test" ConfigName="Release"/>
+      <Project Name="ride" ConfigName="Release"/>
+      <Project Name="ariprog" ConfigName="Release"/>
+      <Project Name="Milk3" ConfigName="Release"/>
+      <Project Name="Numtri" ConfigName="Release"/>
+      <Project Name="pprime" ConfigName="Release"/>
+      <Project Name="pails" ConfigName="Release"/>
+      <Project Name="superprime" ConfigName="Release"/>
+      <Project Name="superprime" ConfigName="Release"/>
+      <Project Name="sprime" ConfigName="Release"/>
+      <Project Name="castle2" ConfigName="Release"/>
+      <Project Name="frac1" ConfigName="Release"/>
+      <Project Name="sort3" ConfigName="Release"/>
+      <Project Name="holstein" ConfigName="Release"/>
+      <Project Name="hamming" ConfigName="Release"/>
+      <Project Name="preface" ConfigName="Release"/>
+      <Project Name="subset" ConfigName="Release"/>
+      <Project Name="runaround" ConfigName="Release"/>
+      <Project Name="braeeds" ConfigName="Release"/>
+      <Project Name="maps" ConfigName="Release"/>
+      <Project Name="longest" ConfigName="Release"/>
+      <Project Name="nocows" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

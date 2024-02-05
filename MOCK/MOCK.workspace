@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="MOCK" Database="" Version="10000">
+  <Project Name="delivery" Path="delivery/delivery.project" Active="Yes"/>
+  <Project Name="baleshare" Path="baleshare/baleshare.project" Active="No"/>
+  <Project Name="climb" Path="climb/climb.project" Active="No"/>
+  <Project Name="zerosum" Path="zerosum/zerosum.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="delivery" ConfigName="Debug"/>
+      <Project Name="baleshare" ConfigName="Debug"/>
+      <Project Name="climb" ConfigName="Debug"/>
+      <Project Name="zerosum" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="delivery" ConfigName="Release"/>
+      <Project Name="baleshare" ConfigName="Release"/>
+      <Project Name="climb" ConfigName="Release"/>
+      <Project Name="zerosum" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="contest 3" Database="" Version="10000">
+  <Project Name="green" Path="green/green.project" Active="No"/>
+  <Project Name="bruhhhhh" Path="bruhhhhh/bruhhhhh.project" Active="No"/>
+  <Project Name="game" Path="game/game.project" Active="No"/>
+  <Project Name="lol" Path="lol/lol.project" Active="No"/>
+  <Project Name="helpcross" Path="helpcross/helpcross.project" Active="No"/>
+  <Project Name="maxcross" Path="maxcross/maxcross.project" Active="No"/>
+  <Project Name="pairup" Path="pairup/pairup.project" Active="No"/>
+  <Project Name="cownomoics" Path="cownomoics/cownomoics.project" Active="No"/>
+  <Project Name="homework" Path="homework/homework.project" Active="No"/>
+  <Project Name="measurement" Path="measurement/measurement.project" Active="No"/>
+  <Project Name="lifeguard" Path="lifeguard/lifeguard.project" Active="No"/>
+  <Project Name="rental" Path="rental/rental.project" Active="No"/>
+  <Project Name="reststops" Path="reststops/reststops.project" Active="No"/>
+  <Project Name="boots" Path="boots/boots.project" Active="No"/>
+  <Project Name="teleport" Path="teleport/teleport.project" Active="No"/>
+  <Project Name="bubble" Path="bubble/bubble.project" Active="No"/>
+  <Project Name="lemonade" Path="lemonade/lemonade.project" Active="No"/>
+  <Project Name="conv1" Path="conv1/conv1.project" Active="No"/>
+  <Project Name="moo" Path="moo/moo.project" Active="No"/>
+  <Project Name="planting" Path="planting/planting.project" Active="No"/>
+  <Project Name="mountains" Path="mountains/mountains.project" Active="No"/>
+  <Project Name="cowherd" Path="cowherd/cowherd.project" Active="No"/>
+  <Project Name="paintbarn" Path="paintbarn/paintbarn.project" Active="No"/>
+  <Project Name="cowjump" Path="cowjump/cowjump.project" Active="No"/>
+  <Project Name="moobuzz" Path="moobuzz/moobuzz.project" Active="No"/>
+  <Project Name="milkvisits" Path="milkvisits/milkvisits.project" Active="No"/>
+  <Project Name="repay" Path="repay/repay.project" Active="No"/>
+  <Project Name="cereal" Path="swap/swap.project" Active="No"/>
+  <Project Name="irrigation" Path="irrigation/irrigation.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="green" ConfigName="Debug"/>
+      <Project Name="bruhhhhh" ConfigName="Debug"/>
+      <Project Name="game" ConfigName="Debug"/>
+      <Project Name="lol" ConfigName="Debug"/>
+      <Project Name="helpcross" ConfigName="Debug"/>
+      <Project Name="maxcross" ConfigName="Debug"/>
+      <Project Name="pairup" ConfigName="Debug"/>
+      <Project Name="cownomoics" ConfigName="Debug"/>
+      <Project Name="homework" ConfigName="Debug"/>
+      <Project Name="measurement" ConfigName="Debug"/>
+      <Project Name="lifeguard" ConfigName="Debug"/>
+      <Project Name="rental" ConfigName="Debug"/>
+      <Project Name="reststops" ConfigName="Debug"/>
+      <Project Name="boots" ConfigName="Debug"/>
+      <Project Name="teleport" ConfigName="Debug"/>
+      <Project Name="bubble" ConfigName="Debug"/>
+      <Project Name="lemonade" ConfigName="Debug"/>
+      <Project Name="conv1" ConfigName="Debug"/>
+      <Project Name="moo" ConfigName="Debug"/>
+      <Project Name="planting" ConfigName="Debug"/>
+      <Project Name="mountains" ConfigName="Debug"/>
+      <Project Name="cowherd" ConfigName="Debug"/>
+      <Project Name="paintbarn" ConfigName="Debug"/>
+      <Project Name="cowjump" ConfigName="Debug"/>
+      <Project Name="moobuzz" ConfigName="Debug"/>
+      <Project Name="milkvisits" ConfigName="Debug"/>
+      <Project Name="repay" ConfigName="Debug"/>
+      <Project Name="cereal" ConfigName="Debug"/>
+      <Project Name="irrigation" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="green" ConfigName="Release"/>
+      <Project Name="bruhhhhh" ConfigName="Release"/>
+      <Project Name="game" ConfigName="Release"/>
+      <Project Name="lol" ConfigName="Release"/>
+      <Project Name="helpcross" ConfigName="Release"/>
+      <Project Name="maxcross" ConfigName="Release"/>
+      <Project Name="pairup" ConfigName="Release"/>
+      <Project Name="cownomoics" ConfigName="Release"/>
+      <Project Name="homework" ConfigName="Release"/>
+      <Project Name="measurement" ConfigName="Release"/>
+      <Project Name="lifeguard" ConfigName="Release"/>
+      <Project Name="rental" ConfigName="Release"/>
+      <Project Name="reststops" ConfigName="Release"/>
+      <Project Name="boots" ConfigName="Release"/>
+      <Project Name="teleport" ConfigName="Release"/>
+      <Project Name="bubble" ConfigName="Release"/>
+      <Project Name="lemonade" ConfigName="Release"/>
+      <Project Name="conv1" ConfigName="Release"/>
+      <Project Name="moo" ConfigName="Release"/>
+      <Project Name="planting" ConfigName="Release"/>
+      <Project Name="mountains" ConfigName="Release"/>
+      <Project Name="cowherd" ConfigName="Release"/>
+      <Project Name="paintbarn" ConfigName="Release"/>
+      <Project Name="cowjump" ConfigName="Release"/>
+      <Project Name="moobuzz" ConfigName="Release"/>
+      <Project Name="milkvisits" ConfigName="Release"/>
+      <Project Name="repay" ConfigName="Release"/>
+      <Project Name="cereal" ConfigName="Release"/>
+      <Project Name="irrigation" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

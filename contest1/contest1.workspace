@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="contest1" Database="" Version="10000">
+  <Project Name="ABCS" Path="ABCS/ABCS.project" Active="Yes"/>
+  <Project Name="chains" Path="chains/chains.project" Active="No"/>
+  <Project Name="stuck" Path="stuck/stuck.project" Active="No"/>
+  <Project Name="test" Path="test/test.project" Active="No"/>
+  <Project Name="stuck2" Path="stuck2/stuck2.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="ABCS" ConfigName="Debug"/>
+      <Project Name="chains" ConfigName="Debug"/>
+      <Project Name="stuck" ConfigName="Debug"/>
+      <Project Name="test" ConfigName="Debug"/>
+      <Project Name="stuck2" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="ABCS" ConfigName="Release"/>
+      <Project Name="chains" ConfigName="Release"/>
+      <Project Name="stuck" ConfigName="Release"/>
+      <Project Name="test" ConfigName="Release"/>
+      <Project Name="stuck2" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="contest4" Database="" Version="10000">
+  <Project Name="tictactoe" Path="tictactoe/tictactoe.project" Active="No"/>
+  <Project Name="abcs" Path="abcs/abcs.project" Active="No"/>
+  <Project Name="cowdemia" Path="cowdemia/cowdemia.project" Active="No"/>
+  <Project Name="moo" Path="moo/moo.project" Active="No"/>
+  <Project Name="autocomplete" Path="autocomplete/autocomplete.project" Active="No"/>
+  <Project Name="dijstra" Path="dijstra/dijstra.project" Active="No"/>
+  <Project Name="internet" Path="internet/internet.project" Active="No"/>
+  <Project Name="MST2" Path="MST2/MST2.project" Active="Yes"/>
+  <Project Name="dijstra" Path="dijstra/dijstra.project" Active="No"/>
+  <Project Name="meteor2" Path="meteor2/meteor2.project" Active="No"/>
+  <Project Name="500miles" Path="500miles/500miles.project" Active="No"/>
+  <Project Name="tours1" Path="tours1/tours1.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="tictactoe" ConfigName="Debug"/>
+      <Project Name="abcs" ConfigName="Debug"/>
+      <Project Name="cowdemia" ConfigName="Debug"/>
+      <Project Name="moo" ConfigName="Debug"/>
+      <Project Name="autocomplete" ConfigName="Debug"/>
+      <Project Name="dijstra" ConfigName="Debug"/>
+      <Project Name="internet" ConfigName="Debug"/>
+      <Project Name="MST2" ConfigName="Debug"/>
+      <Project Name="dijstra" ConfigName="Debug"/>
+      <Project Name="meteor2" ConfigName="Debug"/>
+      <Project Name="500miles" ConfigName="Debug"/>
+      <Project Name="tours1" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="tictactoe" ConfigName="Release"/>
+      <Project Name="abcs" ConfigName="Release"/>
+      <Project Name="cowdemia" ConfigName="Release"/>
+      <Project Name="moo" ConfigName="Release"/>
+      <Project Name="autocomplete" ConfigName="Release"/>
+      <Project Name="dijstra" ConfigName="Release"/>
+      <Project Name="internet" ConfigName="Release"/>
+      <Project Name="MST2" ConfigName="Release"/>
+      <Project Name="dijstra" ConfigName="Release"/>
+      <Project Name="meteor2" ConfigName="Release"/>
+      <Project Name="500miles" ConfigName="Release"/>
+      <Project Name="tours1" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
